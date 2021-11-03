@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarkErickson02
+- 👀 I’m interested in architecture and machine learning
+- 🌱 I’m currently learning Typescript, Javascript, and C++
